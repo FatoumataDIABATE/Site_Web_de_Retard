@@ -1,0 +1,47 @@
+.container {
+    margin-top: 2%;
+}
+
+#deconnexion {
+    float: right;
+}
+
+#pseudo-accueil {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+#post-retard-form {
+    margin-left: 0;
+}
+
+#retard-description{
+    padding-left: 2%;
+    font-weight: bold;
+}
+
+#post-retard {
+    margin-bottom: 5%;
+
+}
+
+#separateur {
+    border: 2px solid lightgrey;
+}
+
+#pseudo {
+    font-size: 35px;
+}
+
+#conteneur-commentaire {
+    margin-top: 1%;
+}
+
+#bloc-commentaire {
+    margin-bottom: 2%;
+}
+#image{
+    margin: 10px;
+    padding: 10px;
+
+}
