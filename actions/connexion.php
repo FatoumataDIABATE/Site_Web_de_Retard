@@ -34,3 +34,5 @@
         $_SESSION["pseudo"] = $pseudo;
         header("Location:../profil.php");
     }
+
+
